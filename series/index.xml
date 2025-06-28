@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Rusty Typewriter</title>
+    <link>/series/</link>
+    <description>Recent content in Series on Rusty Typewriter</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 24 Mar 2025 23:00:00 -0300</lastBuildDate>
+    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content</title>
+      <link>/series/content/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/series/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>/series/features/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/series/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structure</title>
+      <link>/series/structure/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/series/structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Styling</title>
+      <link>/series/styling/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/series/styling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>/series/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/series/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

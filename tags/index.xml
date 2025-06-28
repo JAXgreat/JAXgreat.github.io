@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rusty Typewriter</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Rusty Typewriter</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 24 Mar 2025 23:00:00 -0300</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>/tags/example/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>/tags/guide/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starter</title>
+      <link>/tags/starter/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/tags/starter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
