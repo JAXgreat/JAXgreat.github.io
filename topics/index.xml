@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Rusty Typewriter</title>
-    <link>/topics/</link>
+    <link>//localhost:1313/topics/</link>
     <description>Recent content in Topics on Rusty Typewriter</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 24 Mar 2025 23:00:00 -0300</lastBuildDate>
-    <atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>/topics/documentation/</link>
+      <link>//localhost:1313/topics/documentation/</link>
       <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
-      <guid>/topics/documentation/</guid>
+      <guid>//localhost:1313/topics/documentation/</guid>
       <description></description>
     </item>
   </channel>
